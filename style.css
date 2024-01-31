@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-image: linear-gradient(#3b1566, #5f4da8);
   height: 100vh;
@@ -35,8 +40,8 @@ button {
   font-size: 1.5rem;
 }
 
-
-#anterior, #proximo {
+#anterior,
+#proximo {
   font-size: 3rem;
 }
 
